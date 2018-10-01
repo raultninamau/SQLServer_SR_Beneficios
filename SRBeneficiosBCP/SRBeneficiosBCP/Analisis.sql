@@ -1,0 +1,2 @@
+select *
+from DWSIG2.Compras.Temporal_Sistema_de_Recomendacion
